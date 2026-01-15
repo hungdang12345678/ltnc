@@ -1,0 +1,16 @@
+D:\code 3\DAL\bin\Debug\DAL.dll
+D:\code 3\DAL\bin\Debug\DAL.pdb
+D:\code 3\DAL\bin\Debug\Entity.dll
+D:\code 3\DAL\bin\Debug\Entity.pdb
+D:\code 3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\code 3\DAL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\code 3\DAL\obj\Debug\DAL_MarkupCompile.cache
+D:\code 3\DAL\obj\Debug\DAL_MarkupCompile.lref
+D:\code 3\DAL\obj\Debug\Themes\Generic.baml
+D:\code 3\DAL\obj\Debug\DAL.g.resources
+D:\code 3\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\code 3\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\code 3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\code 3\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\code 3\DAL\obj\Debug\DAL.dll
+D:\code 3\DAL\obj\Debug\DAL.pdb

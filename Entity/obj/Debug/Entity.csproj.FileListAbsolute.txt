@@ -1,0 +1,13 @@
+D:\code 3\Entity\bin\Debug\Entity.dll
+D:\code 3\Entity\bin\Debug\Entity.pdb
+D:\code 3\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+D:\code 3\Entity\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\code 3\Entity\obj\Debug\Entity_MarkupCompile.cache
+D:\code 3\Entity\obj\Debug\Entity_MarkupCompile.lref
+D:\code 3\Entity\obj\Debug\Themes\Generic.baml
+D:\code 3\Entity\obj\Debug\Entity.g.resources
+D:\code 3\Entity\obj\Debug\Entity.Properties.Resources.resources
+D:\code 3\Entity\obj\Debug\Entity.csproj.GenerateResource.cache
+D:\code 3\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\code 3\Entity\obj\Debug\Entity.dll
+D:\code 3\Entity\obj\Debug\Entity.pdb
